@@ -37,6 +37,47 @@ Uncertain抽出
 
 ---
 
+## 使用技術
+
+### 開発環境
+
+- Python
+- VS Code
+- Git
+- GitHub
+
+### AI・機械学習
+
+- PyTorch
+- Torchvision
+- ResNet18
+- BCEWithLogitsLoss
+- Adam
+
+### データ処理
+
+- Pandas
+- NumPy
+
+### 可視化
+
+- Matplotlib
+
+### 画像処理
+
+- FITS
+- F277W
+- OBJ
+- ASY
+
+### 研究手法
+
+- Multi-label Classification
+- Human-in-the-Loop Learning
+- Uncertain Sampling
+
+---
+
 ## 主な機能
 
 ### 学習
